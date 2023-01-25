@@ -1,0 +1,10 @@
+.container {
+    max-width: 300px;
+}
+
+.checkbox {
+    display: flex;
+}
+button {
+    width: 100%;
+}
